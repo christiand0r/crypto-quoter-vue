@@ -18,20 +18,23 @@ CryptoQuoter es una aplicación sencilla y dinámica de usar que permite explora
 ## Instalación Rápida
 
 1. **Clona y accede a la carpeta**
-
-   ```bash
-   git clone https://github.com/tu-usuario/CryptoQuote.git
-   cd CryptoQuote
-   ```
+   
+    ```bash
+    git clone https://github.com/tu-usuario/CryptoQuote.git
+    cd CryptoQuote
+    ```
 
 2. **Instala las dependencias:**
+   
+    ```bash
+    pnpm install
+    ```
 
-   ```bash
-   pnpm install
-   ```
 
 3. **Inicia la aplicación:**
+   
+    ```bash
+    pnpm run serve
+    ```
 
-   ```bash
-   pnpm run serve
-   ```
+
